@@ -1,7 +1,8 @@
 # Hi there 👋
 
 - 💥 I’m currently attending Code Platoon's full-stack software engineering program and learning about web dev in react.js.
-- 🤓 I started coding with Python in 2017, although my first exposure to programming was with C++ class I took back in 2012. I studied computational data analytics through Georgia Tech's online master's program and have completed projects in Python, JavaScript, and R.
+- 🤓 I started coding with Python in 2017, although my first exposure to programming was with C++ class I took back in 2012.
+- ✏️ I studied computational data analytics through Georgia Tech's online master's program and have completed projects in Python, JavaScript, and R.
 
 <!--
 **rkemmey/rkemmey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
